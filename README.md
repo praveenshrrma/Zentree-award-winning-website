@@ -1,8 +1,8 @@
 ## 🌍 Live Hosted App
 
-<a href="https://zentree.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge" alt="Horizon Live Demo">
-</a>
+[![Horizon Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge)](https://zentree.netlify.app)  
+*(Right-click the link and select "Open link in new tab")*
+
 
 <div align="center">
   <br />
