@@ -1,6 +1,8 @@
 ## 🌍 Live Hosted App
 
-[![Horizon Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge)](https://zentree.netlify.app)
+<a href="https://zentree.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge" alt="Horizon Live Demo">
+</a>
 
 <div align="center">
   <br />
