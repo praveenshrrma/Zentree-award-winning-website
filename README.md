@@ -1,3 +1,7 @@
+## 🌍 Live Hosted App
+
+[![Horizon Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge)](https://zentree.netlify.app)
+
 <div align="center">
   <br />
     <a href="https://youtu.be/zA9r5zTllx4" target="_blank">
