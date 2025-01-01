@@ -3,7 +3,7 @@
 [![Horizon Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge)](https://zentree.netlify.app)  
 *(If you want to open it in a new tab right click the button and click "Open link in new tab")*
 
-![awwardsgif (1)](https://github.com/user-attachments/assets/458e1927-f95f-4a68-b55d-24c3edf2f917)
+![wtr (1)](https://github.com/user-attachments/assets/4173e79b-0618-4807-9e6d-8b57bbc92ca7)
 
 <div align="center">
   <br />
