@@ -21,6 +21,11 @@
   <h3 align="center">An Awwwards Winning Website</h3>
 </div>
 
+## 🌍 Live Hosted App
+
+[![Horizon Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge)](https://zentree.netlify.app)  
+*(If you want to open it in a new tab right click the button and click "Open link in new tab")*
+
 ## 📋 <a name="table">Table of Contents</a>
 
 1. 🤖 [Introduction](#introduction)
