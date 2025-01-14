@@ -3,12 +3,12 @@
 [![Horizon Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge)](https://zentree.netlify.app)  
 *(If you want to open it in a new tab right click the button and click "Open link in new tab")*
 
-![wtr (1)](https://github.com/user-attachments/assets/4173e79b-0618-4807-9e6d-8b57bbc92ca7)
+\
 
 <div align="center">
   <br />
     <a>
-      <img src="https://github.com/user-attachments/assets/ab600f24-f4d9-4cef-8f1e-3fd9194afb30" alt="Project Banner">
+      <img src="images/1.gif" alt="GIF 1" width="100%"/>
     </a>
   <br />
 
